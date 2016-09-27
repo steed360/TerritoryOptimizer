@@ -1,7 +1,7 @@
 
 '''
 
-TerritoryOptimizer.py
+TerritoryOptimizer.py (v2)
 
 Match a number of shops to a number of offices with the 
 aim of reducing the overall distance between shops and 
